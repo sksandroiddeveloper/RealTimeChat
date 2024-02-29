@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789780058834",
+    "project_id": "chatkotlin-b5aec",
+    "storage_bucket": "chatkotlin-b5aec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789780058834:android:24bfe997c02466a8c0130b",
+        "android_client_info": {
+          "package_name": "com.example.chatkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjcuIHCfQzHG_RUNL6t-fPVPHQSVO242Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
